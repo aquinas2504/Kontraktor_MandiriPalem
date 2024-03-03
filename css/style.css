@@ -1,0 +1,27 @@
+.slider h3,
+.slider h5{
+    text-shadow: 1px 1px 3px rgba(0,0,0,0,5);
+    
+}
+
+.parallax-container{
+    height: auto;
+}
+
+.parallax img{
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+section{
+    padding: 20px 0;
+}
+
+#portfolio img{
+    border-radius: 12px;
+}
+
+/* .whatsapp img{
+    height: 50px;
+    width: 50px;
+} */
